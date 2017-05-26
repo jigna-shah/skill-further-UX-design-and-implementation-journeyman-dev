@@ -2,11 +2,8 @@
 
 ## [PRE-REQUISITES]
   * [Introduction-to-UI-UX-Design](https://github.com/jigna-shah/skill-Introduction-to-UI-UX-Design-JS-apprentice-dev)
-
-## [TOPICS]
-  * Understand user experience design and why it's important 
-  * Understand the elements of user experience 
-  * Understand how the elements of user experience work together 
+  
+## [TOPICS]   
   * Understand strategy as an element of user experience 
   * Understand the research process 
   * Identify business goals, and user needs 
