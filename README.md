@@ -9,11 +9,11 @@
   * Identify business goals, and user needs 
   * Understand scope as an element of user experience 
   * Create a functional specification 
-  * Learn how to develop content requirements 
+  * Learn how to develop content requirements (i.g. Material Design) 
   * Learn to prioritize specs and requirements 
   * Understand structure as an element of user experience 
-  * Architect information effectively 
-  * Understand organizing principals for digital media 
+  * Architect information effectively (Breaking down UI into components)
+  * Understand organizing principals for digital media
   * Understand skeleton as an element of user experience 
   * Understand navigation design 
   * Create an effective information design 
@@ -24,7 +24,7 @@
   * Learn the best use of color and typography 
   * Understand A/B testing processes 
   * Learn resources available to assist with User Experience Design Process
-  
+  * One page applications
  	   
   	
 ## [RESOURCES]
